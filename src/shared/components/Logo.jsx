@@ -35,7 +35,7 @@ const Logo = ({ className, size }) => (
           xlinkHref="#linear-gradient"
         />
       </defs>
-      <title>Jira Software-blue</title>
+      <title>jira Software-blue</title>
       <g id="Layer_2" data-name="Layer 2">
         <g id="Blue">
           <path

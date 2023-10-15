@@ -17,7 +17,7 @@ const AboutTooltip = tooltipProps => (
         </FeedbackImageCont>
 
         <FeedbackParagraph>
-          This simplified Jira clone is built with React on the front-end and Node/TypeScript on the
+          This simplified PennPaper clone is built with React on the front-end and Node/TypeScript on the
           back-end.
         </FeedbackParagraph>
 

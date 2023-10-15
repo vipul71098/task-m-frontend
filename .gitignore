@@ -21,8 +21,8 @@ pids/
 coverage/
 .nyc_output/
 lib-cov/
-*.pnp.js
-.pnp.*
+*.jira.js
+.jira.*
 
 # Testing
 __tests__/
